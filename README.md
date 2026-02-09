@@ -294,16 +294,6 @@ payment-system/
 - Armazenado em `expiration_date`
 - Pode ser usado para limpeza automática
 
-## 🧪 Testes
-
-O projeto inclui testes para:
-- Criação de pagamentos
-- Geração de QR Codes
-- Validação de webhooks
-- Confirmação de pagamentos
-- Renderização de templates
-- WebSocket connections
-
 
 ## 🤝 Contribuindo
 
